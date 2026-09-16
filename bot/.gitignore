@@ -1,0 +1,6 @@
+.env
+node_modules/
+output/*.pdf
+output/*.xlsx
+google-service-account.json
+firebase-service-account.json
